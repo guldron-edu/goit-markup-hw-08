@@ -437,7 +437,7 @@ body {
   margin-bottom: 0;
 }
 
-.list__hover {
+.card__hover {
   position: absolute;
   display: flex;
   justify-content: center;
